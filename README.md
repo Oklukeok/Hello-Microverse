@@ -13,8 +13,13 @@
 
 
 ## Getting Started
+To check this project, please follow this steps:
+-Download this repository (you can download it by clicking on the green "CODE" button, and then click on the "Download Zip" option).
+-Extract the .Zip file.
+-Open the folder with your integrated development environment (IDE).
 
-This is a practice repo. If you find anything that you think it could improve, feel free to contact me!
+NOTE:
+This is an early version of the project. You will not find any relevant content right now, but you will in the coming soon version.
 
 
 
